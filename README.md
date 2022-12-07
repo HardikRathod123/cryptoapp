@@ -2,6 +2,12 @@
 
 Deployment using Vercel : https://cryptoapp-vitp.vercel.app/
 
+## Description 
+
+Web application fetches data of coins from Coingecko and displays it in the client pages as well displays data of coin of past 24h, 7d, 14d, 30d, 60d, 200d, 365d in the form of chart using chart.js library as well as react-chartjs-2 module.
+
+For frontend of website React Library as well as CHakra UI is used.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
